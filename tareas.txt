@@ -1,0 +1,17 @@
+_visual studio 2019
+_cuda toolkit 12.2
+_cudnn
+_cmake
+_opencv bin
+_opencv_contrib
+_anaconda
+
+
+
+Tareas:
+
+-como entrenar un modelo de yolo grande con dataset de personas (imagenet)
+-como utilizar un modelo de yolo en el modulo dnn de opencv( que archivos se necesitas? pesos. config)
+-como extraer los bbox y las mascaras del modelo
+-editar la ifnormacion de os bbox y mascaras(hacer interseccion entre la mascara y el background)
+-entender como hacer el stream de cama en opencv
